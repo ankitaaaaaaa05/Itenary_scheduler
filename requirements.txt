@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-openai
+langgraph
+openai
+chromadb
+folium
+streamlit-folium
+pandas
+geopy
+python-dotenv
+plotly
+requests
+numpy
+scipy
